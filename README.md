@@ -28,7 +28,7 @@ Siga os passos abaixo para testar o projeto na sua máquina:
 
 1. **Clone o repositório:**
    
-   git clone https://github.com/LucasRyuMuraoka/Pokedex
+   git clone [https://github.com/LucasRyuMuraoka/Pokedex](https://github.com/LucasRyuMuraoka/Pokedex.git)
 
 
 2.  **Acesse a pasta do projeto:**
